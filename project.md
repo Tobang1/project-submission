@@ -1,6 +1,6 @@
-## LAMP STACK
+# LAMP STACK
 
-### Linux
-## Apache
-Mysql
-Php 
+## Linux
+### Apache
+#### Mysql
+#### Php 
